@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "986467868211",
+    "firebase_url": "https://kivuzik.firebaseio.com",
+    "project_id": "kivuzik",
+    "storage_bucket": "kivuzik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986467868211:android:a85cc0fa930a2214",
+        "android_client_info": {
+          "package_name": "com.eldonets.kivuzik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986467868211-6dk4el3m6oi4fdud5i1nrr100r69gple.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1m2y-qZJ55vO_hfSMKrWHCDNg66utpiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

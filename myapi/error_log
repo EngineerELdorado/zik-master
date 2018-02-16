@@ -1,0 +1,157 @@
+[06-Feb-2017 01:07:21 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/push.php on line 5
+[06-Feb-2017 01:10:03 America/Chicago] PHP Warning:  include_once(../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:03 America/Chicago] PHP Warning:  include_once(): Failed opening '../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:03 America/Chicago] PHP Warning:  include_once(../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:03 America/Chicago] PHP Warning:  include_once(): Failed opening '../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:04 America/Chicago] PHP Warning:  include_once(../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:04 America/Chicago] PHP Warning:  include_once(): Failed opening '../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:41 America/Chicago] PHP Warning:  include_once(../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:41 America/Chicago] PHP Warning:  include_once(): Failed opening '../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:42 America/Chicago] PHP Warning:  include_once(../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:42 America/Chicago] PHP Warning:  include_once(): Failed opening '../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:42 America/Chicago] PHP Warning:  include_once(../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:42 America/Chicago] PHP Warning:  include_once(): Failed opening '../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:42 America/Chicago] PHP Warning:  include_once(../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:42 America/Chicago] PHP Warning:  include_once(): Failed opening '../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:57 America/Chicago] PHP Warning:  include_once(../../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:57 America/Chicago] PHP Warning:  include_once(): Failed opening '../../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:58 America/Chicago] PHP Warning:  include_once(../../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:58 America/Chicago] PHP Warning:  include_once(): Failed opening '../../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:59 America/Chicago] PHP Warning:  include_once(../../../includes/config.php): failed to open stream: No such file or directory in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:10:59 America/Chicago] PHP Warning:  include_once(): Failed opening '../../../includes/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/singering/public_html/pushNotifications/core/config.php on line 8
+[06-Feb-2017 01:13:27 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/push.php on line 5
+[06-Feb-2017 02:06:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/singering/public_html/pushNotifications/core/route.php on line 9
+[06-Feb-2017 02:24:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET), expecting function (T_FUNCTION) in /home/singering/public_html/pushNotifications/core/config.php on line 6
+[06-Feb-2017 02:33:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 34
+[06-Feb-2017 02:55:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/singering/public_html/pushNotifications/core/route.php on line 13
+[06-Feb-2017 02:58:58 America/Chicago] PHP Fatal error:  Function name must be a string in /home/singering/public_html/pushNotifications/core/route.php on line 10
+[06-Feb-2017 02:59:00 America/Chicago] PHP Fatal error:  Function name must be a string in /home/singering/public_html/pushNotifications/core/route.php on line 10
+[06-Feb-2017 03:11:02 America/Chicago] PHP Fatal error:  Class 'controller' not found in /home/singering/public_html/pushNotifications/push.php on line 22
+[06-Feb-2017 04:43:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$likes' (T_VARIABLE) in /home/singering/public_html/pushNotifications/push.php on line 28
+[06-Feb-2017 04:43:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$likes' (T_VARIABLE) in /home/singering/public_html/pushNotifications/push.php on line 28
+[06-Feb-2017 04:43:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$likes' (T_VARIABLE) in /home/singering/public_html/pushNotifications/push.php on line 28
+[06-Feb-2017 04:43:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$likes' (T_VARIABLE) in /home/singering/public_html/pushNotifications/push.php on line 28
+[06-Feb-2017 05:08:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/singering/public_html/pushNotifications/core/config.php on line 62
+[07-Feb-2017 00:34:05 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[07-Feb-2017 01:40:58 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/singering/public_html/pushNotifications/core/config.php on line 157
+[07-Feb-2017 01:41:23 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[07-Feb-2017 02:03:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/singering/public_html/pushNotifications/core/config.php on line 73
+[07-Feb-2017 02:03:47 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/singering/public_html/pushNotifications/core/config.php on line 73
+[07-Feb-2017 02:54:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/singering/public_html/pushNotifications/core/config.php on line 74
+[07-Feb-2017 02:54:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/singering/public_html/pushNotifications/core/config.php on line 74
+[07-Feb-2017 02:54:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/singering/public_html/pushNotifications/core/config.php on line 74
+[07-Feb-2017 03:13:16 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[07-Feb-2017 05:51:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_merge' (T_STRING) in /home/singering/public_html/pushNotifications/core/controller.php on line 21
+[07-Feb-2017 05:52:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_merge' (T_STRING) in /home/singering/public_html/pushNotifications/core/controller.php on line 21
+[08-Feb-2017 01:44:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/singering/public_html/pushNotifications/core/config.php on line 185
+[08-Feb-2017 01:44:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/singering/public_html/pushNotifications/core/config.php on line 185
+[08-Feb-2017 02:35:10 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/singering/public_html/pushNotifications/core/config.php on line 228
+[08-Feb-2017 02:35:22 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/singering/public_html/pushNotifications/core/config.php on line 228
+[08-Feb-2017 04:14:02 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/singering/public_html/pushNotifications/core/config.php on line 261
+[08-Feb-2017 04:14:14 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[08-Feb-2017 04:22:31 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[08-Feb-2017 05:22:12 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[08-Feb-2017 05:22:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/singering/public_html/pushNotifications/core/config.php on line 213
+[08-Feb-2017 05:22:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/singering/public_html/pushNotifications/core/config.php on line 213
+[08-Feb-2017 05:22:22 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/singering/public_html/pushNotifications/core/config.php on line 213
+[08-Feb-2017 05:22:27 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/singering/public_html/pushNotifications/core/config.php on line 213
+[08-Feb-2017 05:22:32 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/singering/public_html/pushNotifications/core/config.php on line 213
+[08-Feb-2017 06:15:06 America/Chicago] PHP Deprecated:  iconv_set_encoding(): Use of iconv.internal_encoding is deprecated in /home/singering/public_html/pushNotifications/core/config.php on line 3
+[08-Feb-2017 06:15:09 America/Chicago] PHP Deprecated:  iconv_set_encoding(): Use of iconv.internal_encoding is deprecated in /home/singering/public_html/pushNotifications/core/config.php on line 3
+[08-Feb-2017 06:15:16 America/Chicago] PHP Deprecated:  iconv_set_encoding(): Use of iconv.internal_encoding is deprecated in /home/singering/public_html/pushNotifications/core/config.php on line 3
+[08-Feb-2017 06:18:19 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[08-Feb-2017 06:34:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'GOOGLE_API_KEY' (T_STRING) in /home/singering/public_html/pushNotifications/core/config.php on line 82
+[08-Feb-2017 06:34:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'GOOGLE_API_KEY' (T_STRING) in /home/singering/public_html/pushNotifications/core/config.php on line 82
+[08-Feb-2017 06:36:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'notification' (T_STRING) in /home/singering/public_html/pushNotifications/core/config.php on line 87
+[08-Feb-2017 06:36:48 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[08-Feb-2017 06:37:53 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 06:37:54 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 06:41:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE), expecting ',' or ';' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 06:41:29 America/Chicago] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE), expecting ',' or ';' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 06:41:39 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[08-Feb-2017 06:41:40 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[08-Feb-2017 07:10:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'value' (T_STRING) in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 07:10:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'value' (T_STRING) in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 07:11:08 America/Chicago] PHP Parse error:  syntax error, unexpected '(' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 07:11:10 America/Chicago] PHP Parse error:  syntax error, unexpected '(' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 07:13:19 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[08-Feb-2017 07:13:20 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 07:13:21 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 07:13:41 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 07:13:42 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/singering/public_html/pushNotifications/core/config.php on line 75
+[08-Feb-2017 07:16:52 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[08-Feb-2017 23:25:57 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/singering/public_html/pushNotifications/core/config.php on line 185
+[08-Feb-2017 23:26:00 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/singering/public_html/pushNotifications/core/config.php on line 185
+[08-Feb-2017 23:33:57 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:33:58 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:33:59 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:33:59 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:02 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:02 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:05 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:06 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:06 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:07 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:07 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:07 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:08 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:08 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:09 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:09 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:09 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:10 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:10 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:10 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:18 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:19 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:25 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:28 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:34:46 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:35:03 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/pushNotifications/core/config.php on line 217
+[08-Feb-2017 23:35:47 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[09-Feb-2017 23:06:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE), expecting ',' or ';' in /home/singering/public_html/pushNotifications/core/config.php on line 84
+[09-Feb-2017 23:06:30 America/Chicago] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE), expecting ',' or ';' in /home/singering/public_html/pushNotifications/core/config.php on line 84
+[09-Feb-2017 23:06:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$types' (T_VARIABLE), expecting ',' or ';' in /home/singering/public_html/pushNotifications/core/config.php on line 84
+[10-Feb-2017 00:15:04 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[10-Feb-2017 00:19:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/singering/public_html/pushNotifications/core/config.php on line 112
+[10-Feb-2017 00:19:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/singering/public_html/pushNotifications/core/config.php on line 112
+[10-Feb-2017 00:27:07 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[10-Feb-2017 00:32:49 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/pushNotifications/core/controller.php on line 6
+[10-Feb-2017 00:53:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/singering/public_html/pushNotifications/core/config.php on line 231
+[10-Feb-2017 00:53:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/singering/public_html/pushNotifications/core/config.php on line 231
+[16-Feb-2017 01:05:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/singering/public_html/myapi/core/config.php on line 90
+[16-Feb-2017 01:45:36 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/myapi/core/controller.php on line 6
+[16-Feb-2017 01:45:38 America/Chicago] PHP Fatal error:  Class 'config' not found in /home/singering/public_html/myapi/core/controller.php on line 6
+[16-Feb-2017 02:06:45 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/singering/public_html/myapi/core/config.php on line 79
+[16-Feb-2017 02:06:47 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/singering/public_html/myapi/core/config.php on line 79
+[16-Feb-2017 02:13:17 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/singering/public_html/myapi/core/config.php on line 346
+[16-Feb-2017 02:13:20 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/singering/public_html/myapi/core/config.php on line 346
+[16-Feb-2017 23:32:54 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[16-Feb-2017 23:41:57 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[27-Feb-2017 00:08:48 America/Chicago] PHP Parse error:  syntax error, unexpected ''fail'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/singering/public_html/myapi/core/controller.php on line 23
+[06-Mar-2017 03:27:15 America/Chicago] PHP Warning:  POST Content-Length of 81283772 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[28-Mar-2017 03:50:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'JSON_UNESCAPED_UNICODE' (T_STRING) in /home/singering/public_html/myapi/tracks.php on line 21
+[28-Mar-2017 03:53:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'JSON_UNESCAPED_UNICODE' (T_STRING) in /home/singering/public_html/myapi/tracks.php on line 21
+[28-Mar-2017 03:53:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'JSON_UNESCAPED_UNICODE' (T_STRING) in /home/singering/public_html/myapi/tracks.php on line 21
+[28-Mar-2017 03:53:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'JSON_UNESCAPED_UNICODE' (T_STRING) in /home/singering/public_html/myapi/tracks.php on line 21
+[28-Mar-2017 03:53:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'JSON_UNESCAPED_UNICODE' (T_STRING) in /home/singering/public_html/myapi/tracks.php on line 21
+[28-Mar-2017 03:53:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'JSON_UNESCAPED_UNICODE' (T_STRING) in /home/singering/public_html/myapi/tracks.php on line 21
+[28-Mar-2017 03:53:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'JSON_UNESCAPED_UNICODE' (T_STRING) in /home/singering/public_html/myapi/tracks.php on line 21
+[28-Mar-2017 03:53:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'JSON_UNESCAPED_UNICODE' (T_STRING) in /home/singering/public_html/myapi/tracks.php on line 21
+[28-Mar-2017 03:53:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'JSON_UNESCAPED_UNICODE' (T_STRING) in /home/singering/public_html/myapi/tracks.php on line 21
+[28-Mar-2017 03:59:19 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/singering/public_html/myapi/tracks.php on line 13
+[28-Mar-2017 03:59:24 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/singering/public_html/myapi/tracks.php on line 13
+[28-Mar-2017 03:59:24 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/singering/public_html/myapi/tracks.php on line 13
+[28-Mar-2017 04:06:27 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/myapi/tracks.php on line 14
+[28-Mar-2017 04:06:52 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/myapi/tracks.php on line 14
+[28-Mar-2017 04:06:52 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singering/public_html/myapi/tracks.php on line 14
+[28-Mar-2017 05:55:03 America/Chicago] PHP Parse error:  syntax error, unexpected ''first_name'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/singering/public_html/myapi/likes.php on line 99
+[28-Mar-2017 05:55:04 America/Chicago] PHP Parse error:  syntax error, unexpected ''first_name'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/singering/public_html/myapi/likes.php on line 99
+[28-Mar-2017 06:45:51 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/singering/public_html/myapi/visitorpro.php on line 12
+[28-Mar-2017 06:45:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/singering/public_html/myapi/visitorpro.php on line 12
+[28-Mar-2017 06:46:39 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/singering/public_html/myapi/visitorpro.php on line 12

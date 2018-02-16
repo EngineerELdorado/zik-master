@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:checked="false"
+            android:icon="@drawable/ic_home"
+            android:title="Accueil" />
+
+
+        <item
+            android:id="@+id/stream"
+            android:checked="false"
+            android:visible="false"
+            android:icon="@drawable/ic_microphone"
+            android:title="Mes Chansons" />
+
+
+        <item
+            android:id="@+id/upload_track"
+            android:checked="false"
+            android:icon="@drawable/ic_upload_button"
+            android:title="Poster Une Chanson" />
+
+
+        <item
+            android:id="@+id/downloads"
+            android:checked="false"
+            android:icon="@drawable/ic_file_download_two"
+            android:title="Telechargements"/>
+
+        <item
+            android:id="@+id/explore"
+            android:checked="false"
+            android:icon="@drawable/ic_explore"
+            android:title="Explorer" />
+
+        <item
+            android:id="@+id/profile"
+            android:checked="false"
+            android:icon="@drawable/friends_icon"
+            android:title="Profile" />
+
+
+        <item
+            android:id="@+id/my_tracks"
+            android:checked="false"
+            android:icon="@drawable/ic_myrecord"
+            android:title="Mes chansons" />
+
+
+        <item
+            android:id="@+id/likes"
+            android:checked="false"
+            android:icon="@drawable/thumb_up_button"
+            android:title="J'aimes" />
+
+
+        <item
+            android:id="@+id/message"
+            android:checked="false"
+            android:icon="@drawable/ic_message"
+            android:title="Messages" />
+
+        <item
+            android:id="@+id/playlist"
+            android:checked="false"
+            android:icon="@drawable/ic_music_playlist"
+            android:title="Playlist" />
+
+
+        <item
+            android:id="@+id/player"
+            android:checked="false"
+            android:icon="@drawable/stream_icon"
+            android:title="Lecteur" />
+
+        <item
+            android:id="@+id/search"
+            android:checked="false"
+            android:icon="@drawable/icon_search"
+            android:title="Chercher Artiste" />
+
+        <item
+            android:id="@+id/friends_activity"
+            android:checked="false"
+            android:icon="@drawable/ic_friend_activity"
+            android:title="Activites des Amis"
+            app:actionLayout="@layout/menu_count_two" />
+
+        <item
+            android:id="@+id/rate_app"
+            android:checked="false"
+            android:icon="@drawable/ic_rate_us"
+            android:title="Rate Us" />
+
+        <item
+            android:id="@+id/more_apps"
+            android:checked="false"
+            android:visible="false"
+            android:icon="@drawable/icon_playstore"
+            android:title="More Apps" />
+
+        <item
+            android:id="@+id/log_out"
+            android:checked="false"
+            android:icon="@drawable/logout_icon"
+            android:title="Se Deconnecter" />
+    </group>
+</menu>
+

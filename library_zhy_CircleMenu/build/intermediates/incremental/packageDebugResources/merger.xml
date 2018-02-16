@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res"/><source path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\build\generated\res\rs\debug"/><source path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res"><file name="ic_launcher" path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="circle_menu_item" path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\layout\circle_menu_item.xml" qualifiers="" type="layout"/><file name="main" path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\values\ids.xml" qualifiers=""><item name="id_circle_menu_item_center" type="id"/><item name="id_circle_menu_item_image" type="id"/><item name="id_circle_menu_item_text" type="id"/></file><file path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="action_settings">abc</string><string name="app_name">Singering</string></file><file path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\values-v11\colors.xml" qualifiers="v11"><integer-array name="pocket_background_colors">
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_4</item>
+    </integer-array><color name="gplus_color_4">#b23424</color><color name="gplus_color_3">#427fed</color><color name="gplus_color_2">#f4b400</color><color name="gplus_color_1">#3e802f</color><color name="colorAccent">#FF4081</color><color name="my_accent">#E20300</color><color name="holo_blue_dark">#0099cc</color><color name="my_color">#538025</color><color name="primary_dark">#000</color><integer-array name="pocket_bar_colors">
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_1</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_2</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_3</item>
+        <item>@color/pocket_color_4</item>
+        <item>@color/pocket_color_4</item>
+        <item>@color/pocket_color_4</item>
+        <item>@color/pocket_color_4</item>
+    </integer-array><color name="colorPrimary">#F1F2F4</color><color name="holo_red_dark">#cc0000</color><integer-array name="colors">
+        <item>@color/holo_blue_dark</item>
+        <item>@color/holo_yellow_dark</item>
+        <item>@color/holo_green_dark</item>
+        <item>@color/holo_purple_dark</item>
+        <item>@color/holo_red_dark</item>
+    </integer-array><color name="colorPrimaryDark">#859fa0</color><color name="pocket_color_3">#ee4458</color><color name="pocket_color_2">#34bdb7</color><color name="transparent_popup">#D8000000</color><color name="pocket_color_4">#fcb74d</color><integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array><color name="pocket_color_1">#85edb9</color><color name="holo_yellow_dark">#ff8800</color><color name="holo_green_dark">#669900</color><color name="primary">#fff</color><color name="holo_purple_dark">#9933cc</color><color name="profile_color">#80807B</color></file><file path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\build\generated\res\rs\debug"/><source path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\SINGERING\Android App\Singering_App\library_zhy_CircleMenu\src\debug\res"/></dataSet><mergedItems/></merger>

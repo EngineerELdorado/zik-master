@@ -1,0 +1,1058 @@
+[
+    {
+        "outputFile": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 20,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 8,
+                        "endColumn": 20,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endLine": 14,
+                    "endColumn": 20,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endLine": 14,
+                        "endColumn": 20,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endLine": 20,
+                    "endColumn": 20,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endLine": 20,
+                        "endColumn": 20,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endLine": 38,
+                    "endColumn": 20,
+                    "endOffset": 1552
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endLine": 38,
+                        "endColumn": 20,
+                        "endOffset": 1552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1557,
+                    "endColumn": 45,
+                    "endOffset": 1598
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1557,
+                        "endColumn": 45,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 46,
+                    "endOffset": 1645
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endColumn": 46,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1650,
+                    "endColumn": 50,
+                    "endOffset": 1696
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 50,
+                        "endOffset": 1696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1701,
+                    "endColumn": 47,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1701,
+                        "endColumn": 47,
+                        "endOffset": 1744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 47,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1749,
+                        "endColumn": 47,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 47,
+                    "endOffset": 1840
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 47,
+                        "endOffset": 1840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1845,
+                    "endColumn": 47,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endColumn": 47,
+                        "endOffset": 1888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endColumn": 48,
+                    "endOffset": 1937
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1893,
+                        "endColumn": 48,
+                        "endOffset": 1937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1942,
+                    "endColumn": 49,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1942,
+                        "endColumn": 49,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 50,
+                    "endOffset": 2038
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 50,
+                        "endOffset": 2038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2043,
+                    "endColumn": 47,
+                    "endOffset": 2086
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2043,
+                        "endColumn": 47,
+                        "endOffset": 2086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2091,
+                    "endColumn": 50,
+                    "endOffset": 2137
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2091,
+                        "endColumn": 50,
+                        "endOffset": 2137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2142,
+                    "endColumn": 43,
+                    "endOffset": 2181
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2142,
+                        "endColumn": 43,
+                        "endOffset": 2181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2186,
+                    "endColumn": 42,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2186,
+                        "endColumn": 42,
+                        "endOffset": 2224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endColumn": 48,
+                    "endOffset": 2273
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2229,
+                        "endColumn": 48,
+                        "endOffset": 2273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2278,
+                    "endColumn": 48,
+                    "endOffset": 2322
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2278,
+                        "endColumn": 48,
+                        "endOffset": 2322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2327,
+                    "endColumn": 48,
+                    "endOffset": 2371
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2327,
+                        "endColumn": 48,
+                        "endOffset": 2371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2376,
+                    "endColumn": 48,
+                    "endOffset": 2420
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2376,
+                        "endColumn": 48,
+                        "endOffset": 2420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2425,
+                    "endColumn": 38,
+                    "endOffset": 2459
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2425,
+                        "endColumn": 38,
+                        "endOffset": 2459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2464,
+                    "endColumn": 43,
+                    "endOffset": 2503
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2464,
+                        "endColumn": 43,
+                        "endOffset": 2503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2508,
+                    "endColumn": 47,
+                    "endOffset": 2551
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2508,
+                        "endColumn": 47,
+                        "endOffset": 2551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2556,
+                    "endColumn": 53,
+                    "endOffset": 2605
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2556,
+                        "endColumn": 53,
+                        "endOffset": 2605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2610,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 2742
+                },
+                "from": {
+                    "file": "E:\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2610,
+                        "endLine": 63,
+                        "endColumn": 12,
+                        "endOffset": 2742
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 20,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 8,
+                        "endColumn": 20,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endLine": 14,
+                    "endColumn": 20,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endLine": 14,
+                        "endColumn": 20,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endLine": 20,
+                    "endColumn": 20,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endLine": 20,
+                        "endColumn": 20,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endLine": 38,
+                    "endColumn": 20,
+                    "endOffset": 1552
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endLine": 38,
+                        "endColumn": 20,
+                        "endOffset": 1552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1557,
+                    "endColumn": 45,
+                    "endOffset": 1598
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1557,
+                        "endColumn": 45,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 46,
+                    "endOffset": 1645
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endColumn": 46,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1650,
+                    "endColumn": 50,
+                    "endOffset": 1696
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 50,
+                        "endOffset": 1696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1701,
+                    "endColumn": 47,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1701,
+                        "endColumn": 47,
+                        "endOffset": 1744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 47,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1749,
+                        "endColumn": 47,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 47,
+                    "endOffset": 1840
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 47,
+                        "endOffset": 1840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1845,
+                    "endColumn": 47,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endColumn": 47,
+                        "endOffset": 1888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endColumn": 48,
+                    "endOffset": 1937
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1893,
+                        "endColumn": 48,
+                        "endOffset": 1937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1942,
+                    "endColumn": 49,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1942,
+                        "endColumn": 49,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 50,
+                    "endOffset": 2038
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 50,
+                        "endOffset": 2038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2043,
+                    "endColumn": 47,
+                    "endOffset": 2086
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2043,
+                        "endColumn": 47,
+                        "endOffset": 2086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2091,
+                    "endColumn": 50,
+                    "endOffset": 2137
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2091,
+                        "endColumn": 50,
+                        "endOffset": 2137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2142,
+                    "endColumn": 43,
+                    "endOffset": 2181
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2142,
+                        "endColumn": 43,
+                        "endOffset": 2181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2186,
+                    "endColumn": 42,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2186,
+                        "endColumn": 42,
+                        "endOffset": 2224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endColumn": 48,
+                    "endOffset": 2273
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2229,
+                        "endColumn": 48,
+                        "endOffset": 2273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2278,
+                    "endColumn": 48,
+                    "endOffset": 2322
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2278,
+                        "endColumn": 48,
+                        "endOffset": 2322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2327,
+                    "endColumn": 48,
+                    "endOffset": 2371
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2327,
+                        "endColumn": 48,
+                        "endOffset": 2371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2376,
+                    "endColumn": 48,
+                    "endOffset": 2420
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2376,
+                        "endColumn": 48,
+                        "endOffset": 2420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2425,
+                    "endColumn": 38,
+                    "endOffset": 2459
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2425,
+                        "endColumn": 38,
+                        "endOffset": 2459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2464,
+                    "endColumn": 43,
+                    "endOffset": 2503
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2464,
+                        "endColumn": 43,
+                        "endOffset": 2503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2508,
+                    "endColumn": 47,
+                    "endOffset": 2551
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2508,
+                        "endColumn": 47,
+                        "endOffset": 2551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2556,
+                    "endColumn": 53,
+                    "endOffset": 2605
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2556,
+                        "endColumn": 53,
+                        "endOffset": 2605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2610,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 2742
+                },
+                "from": {
+                    "file": "F:\\SINGERING\\Android App\\Singering_App\\library_zhy_CircleMenu\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2610,
+                        "endLine": 63,
+                        "endColumn": 12,
+                        "endOffset": 2742
+                    }
+                }
+            }
+        ]
+    }
+]
